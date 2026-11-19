@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**OmarLara25/OmarLara25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Omar Lara
+### Desarrollador Java Backend / Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/OmarLara25/Omar-Full-Stack/main/assets/images/banner.png" width="100%" alt="Banner de desarrollo de software">
+
+Desarrollador enfocado en soluciones empresariales con Java, Spring Boot, APIs REST y bases de datos SQL.
+
+</div>
+
+---
+
+## Sobre mí
+
+- Desarrollo de aplicaciones empresariales.
+- Experiencia con Java, Spring Boot y SQL Server.
+- Formación Full Stack y proyectos con React.
+- Interés en arquitectura de software y aprendizaje continuo.
+
+## Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,js,html,css,git,docker" />
+
+</div>
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OmarLara25&show_icons=true&theme=tokyonight" height="160">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarLara25&layout=compact&theme=tokyonight" height="160">
+
+</div>
+
+## Proyectos destacados
+
+- **Sistema de Vacaciones:** gestión de solicitudes y saldos.
+- **Bajas Sin Rendimientos:** soluciones empresariales para procesos operativos.
+- **Proyectos Full Stack:** React, Java, JDBC, MySQL y MongoDB.
+
+## Contacto
+
+[GitHub](https://github.com/OmarLara25) · [Repositorios](https://github.com/OmarLara25?tab=repositories)
