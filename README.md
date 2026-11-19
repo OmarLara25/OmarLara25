@@ -41,9 +41,9 @@ Desarrollador enfocado en soluciones empresariales con Java, Spring Boot, APIs R
 
 ### 01. Sistema de Vacaciones PROSS
 
-Sistema desarrollado desde cero para la gestión de solicitudes, saldos, vigencias y autorizaciones de vacaciones.
+Sistema desarrollado desde cero para la administración integral de vacaciones, incluyendo gestión de solicitudes, saldos, vigencias, autorizaciones, control de usuarios y envío de correos como notificaciones.
 
-**Tecnologías:** Java · Spring Boot · React · TypeScript · SQL Server
+**Tecnologías:** Java · Spring Boot · Spring Security · APIs REST · React · TypeScript · MySQL · JPA / Hibernate
 
 **Repositorio:** Privado
 
