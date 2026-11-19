@@ -37,11 +37,29 @@ Desarrollador enfocado en soluciones empresariales con Java, Spring Boot, APIs R
 
 </div>
 
-## Proyectos destacados
+## Proyectos principales
 
-- **Sistema de Vacaciones:** gestión de solicitudes y saldos.
-- **Bajas Sin Rendimientos:** soluciones empresariales para procesos operativos.
-- **Proyectos Full Stack:** React, Java, JDBC, MySQL y MongoDB.
+### 01. Sistema de Vacaciones PROSS
+
+Sistema desarrollado desde cero para la gestión de solicitudes, saldos, vigencias y autorizaciones de vacaciones.
+
+**Tecnologías:** Java · Spring Boot · React · TypeScript · SQL Server
+
+**Repositorio:** Privado
+
+### 02. Bajas Sin Rendimientos
+
+Solución empresarial orientada al procesamiento, validación y gestión de información para optimizar procesos operativos.
+
+**Tecnologías:** Java · Servlets · JSP · SQL Server · Apache POI
+
+**Proyecto:** Experiencia profesional
+
+### 03. Proyectos Full Stack y académicos
+
+Desarrollo de aplicaciones web y ejercicios prácticos aplicando tecnologías Backend y Frontend.
+
+**Tecnologías:** React · Java · JavaScript · MySQL · MongoDB
 
 ## Contacto
 
